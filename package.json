@@ -3,8 +3,12 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
-        "bootstrap": "^3.3.7",
+        "axios": "^0.18.0",
+        "bootstrap": "^4.3.1",
         "custom-react-scripts": "0.2.1",
+        "lodash": "^4.17.11",
+        "moment": "^2.24.0",
+        "prop-types": "^15.7.2",
         "react": "^16.1.1",
         "react-dom": "^16.1.1"
     },

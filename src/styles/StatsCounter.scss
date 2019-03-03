@@ -1,0 +1,17 @@
+@import "../styles/vars";
+
+.stats-counter {
+
+    h1 {
+        color: $color-white;
+        font-size: 24px;
+        margin-bottom: 0;
+    }
+
+    label {
+        font-size: 12px;
+        font-weight: 500;
+        height: 15px;
+    }
+}
+

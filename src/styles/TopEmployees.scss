@@ -1,0 +1,45 @@
+@import "../styles/vars";
+@import "../styles/fonts";
+
+.employee-stats {
+
+    padding-top: 30px;
+
+    .title {
+        font-size: 17px;
+        font-weight: 500;
+        color: $color-white;
+        padding: 10px 0;
+    }
+
+    .employee-row {
+
+        padding: 8px 0;
+
+        img {
+            width: 33px;
+            height: 33px;
+            border-radius: 50%;
+        }
+
+        .employee-name {
+            font-family: 'Assistant', sans-serif;
+            color: $color-white;
+            font-size: 14px;
+        }
+
+        .hours {
+            height: 18px;
+            font-family: Assistant, sans-serif;
+            font-size: 12px;
+            font-weight: 600;
+            line-height: 1.5;
+            color: $color-steel-grey
+        }
+    }
+
+}
+
+
+
+
